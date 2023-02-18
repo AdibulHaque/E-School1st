@@ -1,0 +1,48 @@
+/*fonts*/
+@font-face{
+	font-family: 'PoppinsBold ', sans-serif;
+	src: url("fonts/Poppins-Bold.ttf");	
+}
+@font-face{
+	font-family: 'PoppinsMedium ', sans-serif;
+	src: url("fonts/Poppins-Medium.ttf");
+}
+@font-face{
+	font-family: 'PoppinsRegular ', sans-serif;
+	src: url("fonts/Poppins-Regular.ttf");
+}
+@font-face{
+	font-family: 'RobotoBold', sans-serif;
+	src: url('fonts/Roboto-Bold.ttf');	
+}
+@font-face{
+	font-family: 'RobotoMedium ', sans-serif;
+	src: url("fonts/Roboto-Medium.ttf");
+}
+@font-face{
+	font-family: 'RobotoRegular ', sans-serif;
+	src: url("fonts/Roboto-Regular.ttf");
+}
+
+
+/*common css start*/
+body{
+	font-family: 'PoppinsRegular ', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #00000000;
+}
+/*common css end*/
+/*Header start*/
+.n_btn{}
+.logo{}
+.menu ul li a{}
+.menu ul li a:hover{
+
+}
+.btn-nav{}
+.btn_c{}
+	
+
+
+/*Header end*/
